@@ -1,0 +1,30 @@
+.container{
+    width: 540px;
+    height: 390px;
+    background-color: rgb(26, 218, 176);
+    padding: 30px 10px 0px 40px;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.row{
+    width: 540px;
+    height: 100px;
+    /* background-color: rgb(248, 87, 127); */
+    margin-bottom: 30px;
+    /* padding: 10px 10px 0px 10px; */
+}
+
+.col{
+    float: left;
+    background-color: white;
+    width: 150px;
+    height: 100px;
+    margin-right: 30px;
+    /* margin-left: 15px; */
+    border-radius: 15px;
+    font-size: 50px;
+    color: rgb(26, 218, 176);
+    text-align: center;
+    /* padding-top: 20px; */
+}
