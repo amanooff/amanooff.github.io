@@ -1,0 +1,26 @@
+html{
+    background:linear-gradient(147.37deg,#3a9f55 0%,rgba(39,109,143,.53125) 46.87%,#f0b95d 100%)
+}
+h1{
+    color: white;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: rgb(24, 185, 110);
+}
+.wrapper{
+    align-items: center;
+    justify-content: center;
+}
+
+.content{
+    width: 80%;
+    height: 40px;
+    background-color: #fff;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    
+}
